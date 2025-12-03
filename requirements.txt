@@ -1,0 +1,5 @@
+langchain
+langgraph
+langchain_ollama
+GitPython
+langchain-mcp-adapters
