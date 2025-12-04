@@ -2,4 +2,5 @@ langchain
 langgraph
 langchain_ollama
 GitPython
-langchain-mcp-adapters
+langchain-community
+ddgs
